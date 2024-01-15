@@ -3,7 +3,7 @@
 - [x] 2	Two Sum
 - [x] 3	Valid Anagram
 - [x] 4	Reverse String
-- [ ] 5	Valid Palindrome
+- [x] 5	Valid Palindrome
 - [ ] 6	Longest Common Prefix
 - [ ] 7	Power of Three
 - [ ] 8	Number of 1 Bits
