@@ -1,4 +1,10 @@
-# List
+# TopSWE
+I started this course during winter break in secondary year of uni, with goal to get better in algorithms and in programming aswell <br>
+
+[Link to the site](https://topswe.com/)
+
+
+## List of algorithms
 - [x] 1	Fizz Buzz
 - [x] 2	Two Sum
 - [x] 3	Valid Anagram
