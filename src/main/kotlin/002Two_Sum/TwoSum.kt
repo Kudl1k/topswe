@@ -1,4 +1,4 @@
-package Two_Sum
+package `002Two_Sum`
 
 fun twoSum(nums: List<Int>,target: Int): List<Int>{
     val result = mutableListOf<Int>()
