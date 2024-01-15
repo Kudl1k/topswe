@@ -1,5 +1,5 @@
 # List
-- [ ] 1	Fizz Buzz
+- [x] 1	Fizz Buzz
 - [ ] 2	Two Sum
 - [ ] 3	Valid Anagram
 - [ ] 4	Reverse String
