@@ -2,7 +2,7 @@
 - [x] 1	Fizz Buzz
 - [x] 2	Two Sum
 - [x] 3	Valid Anagram
-- [ ] 4	Reverse String
+- [x] 4	Reverse String
 - [ ] 5	Valid Palindrome
 - [ ] 6	Longest Common Prefix
 - [ ] 7	Power of Three
