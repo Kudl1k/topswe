@@ -1,6 +1,6 @@
 # List
 - [x] 1	Fizz Buzz
-- [ ] 2	Two Sum
+- [x] 2	Two Sum
 - [ ] 3	Valid Anagram
 - [ ] 4	Reverse String
 - [ ] 5	Valid Palindrome
