@@ -1,7 +1,7 @@
 # List
 - [x] 1	Fizz Buzz
 - [x] 2	Two Sum
-- [ ] 3	Valid Anagram
+- [x] 3	Valid Anagram
 - [ ] 4	Reverse String
 - [ ] 5	Valid Palindrome
 - [ ] 6	Longest Common Prefix
