@@ -16,7 +16,7 @@ I started this course during winter break in secondary year of uni, with goal to
 - [x] 9	Range Sum Query - Immutable
 - [x] 10	Fibonacci Number
 - [x] 11	Climbing Stairs
-- [ ] 12	Min Cost Climbing Stairs
+- [x] 12	Min Cost Climbing Stairs
 - [ ] 13	Best Time to Buy and Sell Stock
 - [ ] 14	Binary Tree Inorder Traversal
 - [ ] 15	Invert Binary Tree
