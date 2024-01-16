@@ -13,7 +13,7 @@ I started this course during winter break in secondary year of uni, with goal to
 - [x] 6	Longest Common Prefix
 - [x] 7	Power of Three
 - [x] 8	Number of 1 Bits
-- [ ] 9	Range Sum Query - Immutable
+- [x] 9	Range Sum Query - Immutable
 - [ ] 10	Fibonacci Number
 - [ ] 11	Climbing Stairs
 - [ ] 12	Min Cost Climbing Stairs
