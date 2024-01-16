@@ -12,7 +12,7 @@ I started this course during winter break in secondary year of uni, with goal to
 - [x] 5	Valid Palindrome
 - [x] 6	Longest Common Prefix
 - [x] 7	Power of Three
-- [ ] 8	Number of 1 Bits
+- [x] 8	Number of 1 Bits
 - [ ] 9	Range Sum Query - Immutable
 - [ ] 10	Fibonacci Number
 - [ ] 11	Climbing Stairs
