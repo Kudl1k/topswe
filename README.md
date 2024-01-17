@@ -18,7 +18,7 @@ I started this course during winter break in secondary year of uni, with goal to
 - [x] 11	Climbing Stairs
 - [x] 12	Min Cost Climbing Stairs
 - [x] 13	Best Time to Buy and Sell Stock
-- [ ] 14	Binary Tree Inorder Traversal
+- [x] 14	Binary Tree Inorder Traversal
 - [ ] 15	Invert Binary Tree
 - [ ] 16	Symmetric Tree
 - [ ] 17	Maximum Depth of Binary Tree
